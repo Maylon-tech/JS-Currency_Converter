@@ -1,0 +1,6 @@
+const fromCur = document.querySelector(".form select")
+const toCur = document.querySelector(".to select")
+const getBtn = document.querySelector(".form button")
+const exIcon = document.querySelector(".form .reverse")
+const amount = document.querySelector(".form input")
+const exRateTxt = document.querySelector(".form .result")
